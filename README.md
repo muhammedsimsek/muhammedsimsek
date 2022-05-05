@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhammedsimsek
+- 👋 Hi, I’m Muhammed Simsek
 - 👀 I’m interested in java and spring
 - 🌱 I’m currently learning java and spring
 - 💞️ I’m looking to collaborate on ...
